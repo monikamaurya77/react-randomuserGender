@@ -1,0 +1,29 @@
+.body{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+
+}
+.radio-btn{
+  display: flex;
+  justify-content: space-between;
+  width:20%;
+  margin-left: 5%;
+  margin-bottom: -4%;
+}
+table{
+  width: 90%;
+  border: 1px solid gray;
+  margin: 5% auto;
+}
+th{
+  background-color: rgb(25, 24, 24);
+  color: white;
+  height: 30px;
+  
+}
+td{
+  text-align: center;
+  
+}
